@@ -1,0 +1,24 @@
+header {
+background:rgb(43, 37, 31);
+font-family:"Comic Sans MS";
+text-align: right;
+
+
+}
+
+body {
+text-align: center;
+background: rebeccapurple;
+}
+
+footer{
+
+
+}
+
+SKYY {
+display: block;
+padding: 20px;
+border: 5px dashed orchid;
+margin: 0 auto;
+}
